@@ -1,0 +1,6 @@
+including the names of the files that are need not to be tracked
+
+*.txt
+*.swp
+*.txt
+
